@@ -1,0 +1,193 @@
+// // @media only screen and (min-width: 1024px) {
+// //     .banner-content{
+// //         margin-top: 42px;
+// //         margin: 30px 35px 0px 35px;
+// //         max-width: 100%;
+// //         display: flex;
+        
+// //         .slick-slider{
+// //             height: 584px;
+// //             width: 70%;
+// //             left: 0px;
+// //             .slick-list{
+// //                 overflow: hidden;
+// //                 max-height: 584px;
+// //             }
+            
+// //             border-radius: 0px;
+// //             img{
+// //                 margin-right: 35px;
+// //                 margin-top: 0px;
+// //             }
+    
+// //         }
+// //         .slick-prev{
+// //             border-radius: 50%;
+// //             height: 50px;
+// //             z-index: 2;
+// //             bottom: 100px;
+// //             right:65px;
+// //             position: absolute;
+// //             position: absolute;
+// //             background-color:#fff;
+            
+// //         }
+// //         .slick-next{
+// //             border-radius: 50%;
+// //             z-index: 2;
+// //             height: 50px;
+// //             bottom: 100px;
+// //             right:130px;
+// //             position: absolute;
+// //             position: absolute;
+// //             background-color:#fff;
+            
+// //         }
+// //         .content-right{
+// //             width: 30%;
+// //             max-height: 585px;
+// //             .content-right-top{
+// //                 position: relative;
+// //                 .banner-header-1{
+                    
+// //                     max-height: 278px;
+// //                     //margin-bottom: 54px;
+// //                 }
+// //                 a{
+// //                     text-decoration: none;
+// //                     font-family: "Roboto", Sans-serif;
+// //                     font-weight: 500;
+// //                     color: #000;
+// //                     background-color: #fff;
+// //                     padding: 22px 19px 22px 19px;
+// //                 }
+// //                 .banner-box-button{
+// //                     position: absolute;
+// //                     top: 50%;
+// //                     left: 50%;
+// //                     transform: translate(-50%, 250%);
+// //                 }
+// //             }
+// //             .content-right-bottom{
+// //                 position: relative;
+// //                 .banner-header-2{
+// //                     margin-top: 20px;
+// //                     max-height:278px
+// //                 }
+// //                 a{
+// //                     text-decoration: none;
+// //                     font-family: "Roboto", Sans-serif;
+// //                     font-weight: 500;
+// //                     color: #000;
+// //                     background-color: #fff;
+// //                     padding: 22px 19px 22px 19px;
+// //                 }
+// //                 .banner-box-button{
+// //                     position: absolute;
+// //                     top: 50%;
+// //                     left: 50%;
+// //                     transform: translate(-50%, 250%);
+// //                 }
+            
+// //             }
+// //         }
+       
+        
+    
+// //     }
+    
+// // }
+// // @media (min-width: 1200px){
+// //     .row {
+// //         margin: 0 -101px;
+// //     }
+// // }
+// @media (min-width: 1200px){
+//  .row .box-item:first-child {
+//     padding-right: 48px;
+//     padding-left: 0;
+//     }
+//     .content{
+//         padding-top: 10px;
+//         margin: 0px 50px 0px 50px;
+//         box-sizing: border-box;
+//         .container{
+//             margin: 0px 50px 0px 50px;
+//             max-width: 1662px;
+//             //margin-top: 10px;
+//             //padding-bottom: 10px;
+//             .box-title {
+//                 margin: -24px 460px 0px 460px;
+//                 //margin: 0 460px;
+//                 background-color: #ffd72f;
+//                 top: 0px;
+//                 //padding: 0 48px;
+//                 .arrow-left {
+//                     display: inline-block;
+//                     width: 0;
+//                     height: 0;
+//                     border-top: 14px solid transparent;
+//                     border-right: 10px solid #a70300;
+//                     left: -10px;
+//                     margin-left: -10px;
+//                     margin-bottom: 9px;
+//                     //margin-right: 320px;
+//                 }
+//                 .arrow-right {
+                    
+//                     //margin-top: -100px;
+//                     margin-bottom: 33px;
+//                     display: inline-block;
+//                     width: 0;
+//                     height: 0;
+//                     border-top: 14px solid transparent;
+//                     border-left: 10px solid #a70300;
+//                     //position: absolute;
+//                     margin-left: 355px;
+//                     right: -10px;
+//                 }
+//                 .box-title-heading {
+//                     text-align: center;
+//                     color: #fff;
+//                     font-size: 33px;
+//                     /* margin-top: -30px; */
+//                     margin-bottom: 10px;
+//                     transform: translate(2%, -55%);
+//                 }
+//             }
+//             .row{
+//                 display: flex;
+//                 padding-bottom: 78px;
+//                 .box-item {
+//                     color: #fff;
+//                     text-align: center;
+//                 }
+//                 .box-item-image {
+//                     display: block;
+//                     margin: 17px auto;
+//                     height: auto;
+//                     max-width: 100%;
+//                     border: none;
+//                     border-radius: 0;
+//                     box-shadow: none;
+//                 }
+//                 .box-item-textbox {
+//                     margin-top: 8px;
+//                 }
+//                 .box-item-textbox-heading {
+//                     font-style: normal;
+//                     font-weight: 700;
+//                     font-size: 18px;
+//                     line-height: 48px;
+//                     //text-align: center;
+//                     padding-top: 20px;
+//                 }
+//                 .box-item-textbox-description {
+//                     text-align: center;
+//                 }
+//             }
+            
+//         }
+//     }
+    
+// }

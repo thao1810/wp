@@ -1,0 +1,38 @@
+img {
+    height: auto;
+    max-width: 100%;
+}
+
+a {
+    background-color: transparent;
+}
+body {
+    margin: 0;
+    padding: 0; }
+
+.container {
+    max-width: 1650px;
+    margin: 0 auto;
+}
+.header-main-bottom{
+    width: 100%;
+}
+button,
+input {
+    overflow: visible;
+}
+
+button,
+input,
+optgroup,
+select,
+textarea {
+    font-family: inherit;
+    font-size: 100%;
+    line-height: 1.15;
+    margin: 0;
+}
+
+ul li {
+    list-style-type: none;
+}
